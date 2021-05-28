@@ -14,6 +14,13 @@
 		"linkedInURL": "https://www.linkedin.com/in/phanikatakam"
 	},
 	{
+		"studentId": "190031367",
+		"name": "Vishnu Priya",
+		"bio": "love to live",
+		"githubURL": "https://github.com/190031367",
+		"linkedInURL": "https://www.linkedin.com/in/vishnupriya116072002"
+	},
+  	{
 		"studentId": "190031256",
 		"name": "P V S Sumanth",
 		"bio": "I'm weird, i'm crazy still alive.",
@@ -33,5 +40,47 @@
 		"bio": "To create well I have to be in a good mood, happy and cool",
 		"githubURL": "https://github.com/190031382-RahmathullaBaig",
 		"linkedInURL": "https://www.linkedin.com/in/rahmathulla-baig/"
+   }, 
+   {
+		"studentId": "190030843",
+		"name": "K Mohan Srinivas",
+		"bio": "I am honest",
+		"githubURL": "https://github.com/mohan-konem-123",
+		"linkedInURL": "https://www.linkedin.com/in/mohan-srinivas-11374a193/"
+	},
+  {
+		"studentId": "190030155",
+		"name": "B.Tejaswini",
+		"bio": "Be Strong",
+		"githubURL": "https://github.com/tejaswini14345",
+		"linkedInURL": "https://www.linkedin.com/in/tejaswini-betina-4155b81a4/"
+	},
+  	{
+		"studentId": "190030866",
+		"name": "K V SIVA NAGA SAI",
+		"bio": "Bio ledhu brotheruu :->",
+		"githubURL": "https://github.com/kotasai2002",
+		"linkedInURL": "https://www.linkedin.com/in/kota-sai-48aaa8193/"
+	},
+  	{
+    		"studentId": "190030941",
+		"name": "Lenka Sidhardh",
+		"bio": "If i can still breath am so fine",
+		"githubURL": "https://github.com/SLeN808",
+		"linkedInURL": "https://www.linkedin.com/in/sidhardh-lenka-808b9418a/"
+  	},
+  	{
+  		"studentId": "190031252",
+		"name": "Karthik Chaithanya",
+		"bio": "Stop comparing and give your best!!",
+		"githubURL": "https://github.com/karthik1209-git",
+		"linkedInURL": "https://www.linkedin.com/in/karthik-chaithanya-papatla/"
+  	},
+	{
+		"studentId": "190030696",
+		"name": "Kalisetti Dheeraj",
+		"bio": "I am From Earth, all are welcome here!",
+		"githubURL": "https://github.com/Dheerajkalisetti/",
+		"linkedInURL": "https://www.linkedin.com/in/kalisetti-dheeraj-6b60a8208/"
 	}
 ]

@@ -19,5 +19,40 @@
 		"bio": "love to live",
 		"githubURL": "https://github.com/190031367",
 		"linkedInURL": "https://www.linkedin.com/in/vishnupriya116072002"
-	}
+	},
+  {
+		"studentId": "190031256",
+		"name": "P V S Sumanth",
+		"bio": "I'm weird, i'm crazy still alive.",
+		"githubURL": "http://github.com/PVS-SUMANTH",
+		"linkedInURL": "https://www.linkedin.com/in/paramathmuni-venkata-sai-sumanth/"
+	},
+	{
+		"studentId": "190030827",
+		"name": "K.V.R.BHAGAVATH",
+		"bio": "Be passionate , Honest about your self and Work hard to achieve your Goal",
+		"githubURL": "https://github.com/bhagavathkonakalla1278",
+		"linkedInURL": "https://www.linkedin.com/in/bhagavath-konakalla-917b4b190/"
+	},
+  {
+		"studentId": "190030866",
+		"name": "K V SIVA NAGA SAI",
+		"bio": "Bio ledhu brotheruu :->",
+		"githubURL": "https://github.com/kotasai2002",
+		"linkedInURL": "https://www.linkedin.com/in/kota-sai-48aaa8193/"
+	},
+  {
+    "studentId": "190030941",
+		"name": "Lenka Sidhardh",
+		"bio": "If i can still breath am so fine",
+		"githubURL": "https://github.com/SLeN808",
+		"linkedInURL": "https://www.linkedin.com/in/sidhardh-lenka-808b9418a/"
+  },
+  {
+  	"studentId": "190031252",
+		"name": "Karthik Chaithanya",
+		"bio": "Stop comparing and give your best!!",
+		"githubURL": "https://github.com/karthik1209-git",
+		"linkedInURL": "https://www.linkedin.com/in/karthik-chaithanya-papatla/"
+  }
 ]

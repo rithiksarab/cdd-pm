@@ -27,7 +27,7 @@
 		"githubURL": "https://github.com/bhagavathkonakalla1278",
 		"linkedInURL": "https://www.linkedin.com/in/bhagavath-konakalla-917b4b190/"
 	},
-	{
+  {
 		"studentId": "190030866",
 		"name": "K V SIVA NAGA SAI",
 		"bio": "Bio ledhu brotheruu :->",
@@ -40,5 +40,12 @@
 		"bio": "If i can still breath am so fine",
 		"githubURL": "https://github.com/SLeN808",
 		"linkedInURL": "https://www.linkedin.com/in/sidhardh-lenka-808b9418a/"
+  },
+  {
+  	"studentId": "190031252",
+		"name": "Karthik Chaithanya",
+		"bio": "Stop comparing and give your best!!",
+		"githubURL": "https://github.com/karthik1209-git",
+		"linkedInURL": "https://www.linkedin.com/in/karthik-chaithanya-papatla/"
   }
 ]

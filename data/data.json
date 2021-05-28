@@ -28,10 +28,17 @@
 		"linkedInURL": "https://www.linkedin.com/in/bhagavath-konakalla-917b4b190/"
 	},
 	{
-		"studentId": "190030941",
+		"studentId": "190030866",
+		"name": "K V SIVA NAGA SAI",
+		"bio": "Bio ledhu brotheruu :->",
+		"githubURL": "https://github.com/kotasai2002",
+		"linkedInURL": "https://www.linkedin.com/in/kota-sai-48aaa8193/"
+	},
+  {
+    "studentId": "190030941",
 		"name": "Lenka Sidhardh",
 		"bio": "If i can still breath am so fine",
 		"githubURL": "https://github.com/SLeN808",
 		"linkedInURL": "https://www.linkedin.com/in/sidhardh-lenka-808b9418a/"
-	}
+  }
 ]
